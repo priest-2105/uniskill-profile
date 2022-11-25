@@ -509,7 +509,7 @@
         font-style: SemiBold;
         font-size: 2vh;
         background-color: #3AAED8;
-        padding: 5px 10px 5px 10px;
+        padding: 10px 15px 10px 15px;
         margin-left: 10px;
         margin-top: 10px;
         border-radius: 10px;
@@ -535,6 +535,8 @@
 
       
         /* portfolio section  */
+        /* .profile-body{
+        background-color:#E9E9E9;} */
 
         .portfolio-card:hover{
         box-shadow:1px 1.8px 1.4px 1.8px Rgba(24, 25, 31,0.3);

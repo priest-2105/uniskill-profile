@@ -548,20 +548,33 @@ body {
 }
 
 /* video  */
-.video-title div {
-  width: fit-content;
+.video-title {
+  width: 100%;
   margin: auto;
 }
 
 .video-title h5 {
   color: #204d74;
+  /* font-weight: 600;
+  font-size: 20px; */
+
 }
 
 .video-title img {
-  width: 150px;
-  height: 100px;
+  width:80%;
+  height: 180px;
 }
-
+ @media only screen and (max-width: 992px) {
+.video-title img {
+        height: 300px;
+        }  
+}
+@media only screen and (max-width: 480px) {
+.video-title img {
+       width: 99%;
+        }  
+}
+        
 /* footer  */
 .footer {
   width: 100%;

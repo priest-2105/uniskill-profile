@@ -1096,11 +1096,11 @@ width: 100%;
 
 
 #mobile-toggle-button:checked ~ label .light{
-  display: none !important;
+  display: block !important;
   }
 
 #mobile-toggle-button:checked ~ label .dark{
-    display: block !important;
+    display: none !important;
 }
 
 

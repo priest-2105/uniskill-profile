@@ -1144,7 +1144,8 @@ label .bi-brightness-high-fill{
 @media only screen and (min-width: 992px) {
 .mobile-dark-mode-toggler{
   display: none;
-} }
+} 
+}
 
 
 .dark-mode-active {

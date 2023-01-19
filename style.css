@@ -1150,7 +1150,18 @@ label .bi-brightness-high-fill{
   color: #fff;
 }
 
+.dark-mode-active li{
+  background-color:rgba(23,23,31,255);
+  color: #fff;
+}
+
 .dark-mode-card-active{
+  background-color:  rgba(34,33,49,255) !important;
+  color:white !important;
+}
+
+
+.dark-mode-card-active li{
   background-color:  rgba(34,33,49,255) !important;
   color:white !important;
 }
